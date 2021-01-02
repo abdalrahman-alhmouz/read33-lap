@@ -1,6 +1,4 @@
-prompt("what is your name ?");
 var name = prompt("what is your name ?");
-alert(name);
 alert("hello" + name);
 
 var userInput = prompt("what is my name (abdalrahman or ahmad)?").toLowerCase(userInput);
